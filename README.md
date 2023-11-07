@@ -16,4 +16,5 @@ Credits
 
 - https://nanonets.com/blog/human-pose-estimation-2d-guide/
 
-![Issue 1](issue_1.jng)
+## DEVELOPING ISSUE
+![Issue 1](issue_1.jpg)
