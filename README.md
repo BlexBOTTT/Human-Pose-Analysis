@@ -15,6 +15,3 @@ Credits
 - https://github.com/quanhua92/human-pose-estimation-opencv/blob/master/graph_opt.pb
 
 - https://nanonets.com/blog/human-pose-estimation-2d-guide/
-
-## DEVELOPING ISSUE
-![Issue 1](issue_1.jpg)
