@@ -10,6 +10,7 @@ The repository contains three main Jupyter Notebook files for different aspects 
 2. **main_video.ipynb**: This notebook analyzes human poses in sample videos of people performing different poses.
 3. **main_live.ipynb**: This notebook provides live feed analysis of human poses through a camera.
 
+<<<<<<< HEAD
 ## Dependencies
 
 The code relies on the following libraries and dependencies:
@@ -30,3 +31,6 @@ This project was made possible by the following sources:
 - graph_opt.pb file: [GitHub - quanhua92/human-pose-estimation-opencv](https://github.com/quanhua92/human-pose-estimation-opencv/blob/master/graph_opt.pb)
 - Guide: NanoNets - [2D Human Pose Estimation Guide](https://nanonets.com/blog/human-pose-estimation-2d-guide/)
 - Complicated Troubleshoot/Debugging - [ChatGPT](https://chat.openai.com)
+=======
+- https://nanonets.com/blog/human-pose-estimation-2d-guide/
+>>>>>>> d8b8b6cdbe0c586ef3abfe7ed330bedf40cf7420
