@@ -33,4 +33,3 @@ This project was made possible by the following sources:
 - Complicated Troubleshoot/Debugging - [ChatGPT](https://chat.openai.com)
 =======
 - https://nanonets.com/blog/human-pose-estimation-2d-guide/
->>>>>>> d8b8b6cdbe0c586ef3abfe7ed330bedf40cf7420
